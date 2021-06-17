@@ -1,0 +1,2 @@
+fruit80.v a synthesizable verilog code of Fruit 80 cipher Encyption.
+Testbech.v file is testbech of fruit80.v
